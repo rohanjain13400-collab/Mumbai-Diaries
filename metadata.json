@@ -1,0 +1,6 @@
+{
+  "name": "Mumbai Diaries - Travel & Lifestyle Magazine",
+  "description": "Stories, Streets & Experiences from the City of Dreams. A modern, premium Mumbai lifestyle and travel publication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
